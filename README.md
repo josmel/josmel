@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 - 🔭 I’m currently working as Tech Lead
 - 🌱 I’m currently learning blockchain
