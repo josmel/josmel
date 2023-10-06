@@ -3,7 +3,7 @@
 Here are some ideas about me:
 
 - 🔭 I’m currently working as Tech Lead
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning blockchain, LLM
 - 👯 I’m looking to collaborate on free software communities
 - 🤔 I’m looking for help with good development practices
 - 💬 Ask me about clean code, DDD, hexagonal architecture
